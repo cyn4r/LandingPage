@@ -1,0 +1,28 @@
+* {
+    border: 1px solid }
+
+.main {
+    font-style: light italic;
+    color: blueviolet;
+    /*width: 1920px;
+    height: 1080px;*/
+}
+    
+
+.conteiner1 {
+    background-color: #1f2937;
+    font-size: 24px;
+    color: #f9faf8;
+    }
+
+.header {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+
+.header2 {
+    padding-left: 1300px;
+}
